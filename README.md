@@ -24,6 +24,8 @@ Subscribers receive up-to-date game scores, statuses, and other critical details
 3. **Amazon EventBridge**: Schedules and triggers Lambda functions for daily game updates.
 4. **NBA APIs**: Provides real-time NBA game data.
 
+
+![Image Alt](https://github.com/RalphHenryDominisac-AWS/NBA-Game-Alerts/blob/e891c2e244f8bf6bdc8d9c4d3bcc2d708f60d137/Architecture.png)
 ---
 
 ## Installation and Setup
