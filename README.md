@@ -2,10 +2,9 @@
 
 ## Overview
 
-The NBA Game Day Notifications system provides real-time game updates and notifications to subscribed users via SMS or Email. This project integrates **Amazon SNS**, **AWS Lambda**, **Amazon EventBridge**, and **NBA APIs**, showcasing the power of cloud computing for real-time alert systems.
+The NBA Game Day Notifications system delivers real-time game updates and alerts to subscribed users through SMS and email. This project leverages **Amazon SNS**, **AWS Lambda**, **Amazon EventBridge**, and **NBA APIs**, demonstrating the capabilities of cloud computing in enabling real-time notification systems.
 
-Subscribers receive up-to-date game scores, statuses, and other critical details directly in their preferred communication channel.
-
+Subscribers gain instant access to game scores, statuses, and other essential information via their preferred communication channels.
 ---
 
 ## Features
